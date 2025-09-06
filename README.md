@@ -1,8 +1,5 @@
 # Automated E-Commerce Price & Availability Tracker (Jumia TVs)
 
-![Uploading image.jpeg…]()
-
-
 ## Project Summary
 This project developed an automated system to extract daily product data (price, stock, discount, reviews) from Jumia, generating a 5-day historical dataset and exporting clean, validated data to CSV for seamless integration and analysis.
 
