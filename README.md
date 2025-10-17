@@ -19,3 +19,5 @@ Manual tracking of product data on e-commerce platforms like Jumia is time-consu
 - Automated daily extraction of product data (price, stock, discount, reviews) from Jumia.
 - Generated 5-day historical dataset for trend analysis.
 - Cleaned and validated records by removing duplicates, invalid entries, and missing values, exporting to CSV.
+
+### [View Python Script](https://github.com/Chi-Matty/Automated-Jumia-Tv-Price-Availability-Tracker/blob/main/market_intelligence_scrapper.ipynb)
