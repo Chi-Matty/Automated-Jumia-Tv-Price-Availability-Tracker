@@ -12,6 +12,13 @@
 ## Project Summary
 This project developed an automated system to extract daily product data (price, stock, discount, reviews) from Jumia, generating a 5-day historical dataset and exporting clean, validated data to CSV for seamless integration and analysis.
 
+## Tech Stack
+    Python
+    BeautifulSpup
+    Requests
+    lxml
+    Pandas
+
 ## Business Problem
 Manual tracking of product data on e-commerce platforms like Jumia is time-consuming, error-prone, and inefficient. Businesses require real-time, accurate data on product pricing, stock availability, discounts, and customer reviews to make informed decisions, monitor market trends, and stay competitive. The lack of an automated solution hinders the ability to efficiently collect, clean, and analyze this data for actionable insights.
 
